@@ -34,22 +34,7 @@ Según sus requerimientos la página debe:
 
 ###DIRECTORIO:
 
-PROYECTO
-|
-|__asset
-|   |__css
-|   |   |__ styles.css
-|   | 
-|   |__js
-|   |   |__ script.js
-|	|
-|	|__img
-|	|	|__Images
-|	|
-|	|__Fonts
-|		|__Fuentes
-|	
-|__ index.cl	 
+![](https://image.ibb.co/nn3XKo/Captura_de_pantalla_2018_06_27_a_las_6_00_10_p_m.png)
 
 ### Requsitos Especificos:
 
