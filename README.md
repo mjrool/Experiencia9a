@@ -13,7 +13,7 @@ Según sus requerimientos la página debe:
 - Dar enfásis a la compra de sus productos
 - Mostrar el logo de la empresa
 
--Tipo Landing Page
+- Tipo Landing Page
 
 #Divisiones:
 
@@ -24,10 +24,10 @@ Según sus requerimientos la página debe:
 - 5 Comprar Tomates
 - 6 Footer
 
--Se incluye Sketch version escritorio: 
+- Se incluye Sketch version escritorio: 
 ![](https://preview.ibb.co/noo1AT/IMG_4177.jpg)
 
--scketch version móvil:
+- scketch version móvil:
 
 
 ![](https://preview.ibb.co/bu4zVT/IMG_4176.jpg)
@@ -46,13 +46,14 @@ Según sus requerimientos la página debe:
 	- Titulos: Raleway 
 	- Texto: Open Sans
 
--Colores:
+- Colores:
+
 	- Seccion Titulos: #E56353
 	- Footer y texto navbar : #686963
 	- Segunda info empresa y biografias, texto boton: #707070
 	- Fondo sitio y boton: #FAFAFA
 	- Navbar y fuentes Titulos y primer texto info empresa: #FFFFFF
 
--Imagenes: Clientes	
+- Imagenes: Clientes	
 	- Iconos: Buscar Simil
 
