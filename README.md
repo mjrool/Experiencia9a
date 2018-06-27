@@ -2,7 +2,7 @@ README
 
 Pre-maquetado de página Tía Tomate
 
-REQUISITOS DEL SITIO
+###REQUISITOS DEL SITIO
 
 ### Requsitos generales:
 
@@ -32,6 +32,25 @@ Según sus requerimientos la página debe:
 
 ![](https://preview.ibb.co/bu4zVT/IMG_4176.jpg)
 
+###DIRECTORIO:
+
+PROYECTO
+|
+|__asset
+|   |__css
+|   |   |__ styles.css
+|   | 
+|   |__js
+|   |   |__ script.js
+|	|
+|	|__img
+|	|	|__Images
+|	|
+|	|__Fonts
+|		|__Fuentes
+|	
+|__ index.cl	 
+
 ### Requsitos Especificos:
 
 - Secciones con Grilla
@@ -55,5 +74,5 @@ Según sus requerimientos la página debe:
 	- Navbar y fuentes Titulos y primer texto info empresa: #FFFFFF
 
 - Imagenes: Clientes	
-	- Iconos: Buscar Simil
+- Iconos: Buscar Simil
 
