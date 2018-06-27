@@ -15,7 +15,7 @@ Según sus requerimientos la página debe:
 
 -Tipo Landing Page
 
-Divisiones:
+#Divisiones:
 
 - 1 Cabecera o Header
 - 2 Informacion sobre la empresa y sus forma de trabajo
@@ -28,6 +28,8 @@ Divisiones:
 ![](https://preview.ibb.co/noo1AT/IMG_4177.jpg)
 
 -scketch version móvil:
+
+
 ![](https://preview.ibb.co/bu4zVT/IMG_4176.jpg)
 
 ### Requsitos Especificos:
