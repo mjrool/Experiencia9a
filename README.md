@@ -17,12 +17,12 @@ Según sus requerimientos la página debe:
 
 Divisiones:
 
--1 Cabecera o Header
--2 Informacion sobre la empresa y sus forma de trabajo
--3 un titulo
--4 Biografia de los due;os de la empresa
--5 Comprar Tomates
--6 Footer
+- 1 Cabecera o Header
+- 2 Informacion sobre la empresa y sus forma de trabajo
+- 3 un titulo
+- 4 Biografia de los due;os de la empresa
+- 5 Comprar Tomates
+- 6 Footer
 
 -Se incluye Sketch version escritorio: 
 ![](https://preview.ibb.co/noo1AT/IMG_4177.jpg)
@@ -45,12 +45,12 @@ Divisiones:
 	- Texto: Open Sans
 
 -Colores:
-	Seccion Titulos: #E56353
-	Footer y texto navbar : #686963
-	Segunda info empresa y biografias, texto boton: #707070
-	Fondo sitio y boton: #FAFAFA
-	Navbar y fuentes Titulos y primer texto info empresa: #FFFFFF
+	- Seccion Titulos: #E56353
+	- Footer y texto navbar : #686963
+	- Segunda info empresa y biografias, texto boton: #707070
+	- Fondo sitio y boton: #FAFAFA
+	- Navbar y fuentes Titulos y primer texto info empresa: #FFFFFF
 
 -Imagenes: Clientes	
-_ Iconos: Buscar Simil
+	- Iconos: Buscar Simil
 
